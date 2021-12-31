@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopcriss/static/css/main.073c9b0a.css",
+    "main.js": "/shopcriss/static/js/main.f30c8bcb.js",
+    "static/js/787.491ff5eb.chunk.js": "/shopcriss/static/js/787.491ff5eb.chunk.js",
+    "static/media/logo.svg": "/shopcriss/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shopcriss/index.html",
+    "main.073c9b0a.css.map": "/shopcriss/static/css/main.073c9b0a.css.map",
+    "main.f30c8bcb.js.map": "/shopcriss/static/js/main.f30c8bcb.js.map",
+    "787.491ff5eb.chunk.js.map": "/shopcriss/static/js/787.491ff5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f30c8bcb.js"
+  ]
+}
