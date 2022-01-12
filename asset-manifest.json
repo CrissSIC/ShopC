@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shopcriss/static/css/main.0f6f334c.css",
-    "main.js": "/shopcriss/static/js/main.5594a912.js",
+    "main.css": "/shopcriss/static/css/main.86bb6ac4.css",
+    "main.js": "/shopcriss/static/js/main.01ed378f.js",
     "static/media/banner.png": "/shopcriss/static/media/banner.69f18394bb054a781081.png",
     "index.html": "/shopcriss/index.html",
-    "main.0f6f334c.css.map": "/shopcriss/static/css/main.0f6f334c.css.map",
-    "main.5594a912.js.map": "/shopcriss/static/js/main.5594a912.js.map"
+    "main.86bb6ac4.css.map": "/shopcriss/static/css/main.86bb6ac4.css.map",
+    "main.01ed378f.js.map": "/shopcriss/static/js/main.01ed378f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f6f334c.css",
-    "static/js/main.5594a912.js"
+    "static/css/main.86bb6ac4.css",
+    "static/js/main.01ed378f.js"
   ]
 }
